@@ -8,14 +8,14 @@ googleAnalytics = "UA-153716840-1"
 [params]
     author = "Dzmitry Kremez"
     description = "DevResume - Personal online CV. Created with Hugo - Golang site generator"
-    primaryColor = "#0057FF"
+    primaryColor = "#665b50"
     textPrimaryColor = "#292929"
 
     [params.profile]
         enable = true
         name = "Dzmitry Kremez"
         tagline = "Senior Software Engineer"
-        avatar = "avatar.jpg"
+        avatar = "avatar-latest.jpg"
 
     [params.contact]
         enable = true
