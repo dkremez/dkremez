@@ -19,11 +19,11 @@ googleAnalytics = "UA-153716840-1"
 
     [params.contact]
         enable = true
-        location = "Minsk"
+        location = "Dublin"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:+375295103865"
-        text = "+375295103865"
+        url = "tel:+353876870576"
+        text = "+353876870576"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:mr.dkremez@gmail.com"
@@ -40,11 +40,13 @@ googleAnalytics = "UA-153716840-1"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/React"
+        details = "JavaScript/Typescript"
         [[params.skills.list.items]]
-        details = "Ruby"
+        details = "React/Redux/Next.js"
         [[params.skills.list.items]]
-        details = "Node.js"
+        details = "Ruby/Ruby on Rails"
+        [[params.skills.list.items]]
+        details = "Node.js/Express.js"
         [[params.skills.list.items]]
         details = "PostgreSQL/MySQL"
         [[params.skills.list.items]]
@@ -142,7 +144,7 @@ googleAnalytics = "UA-153716840-1"
 
     [params.summary]
         enable = true
-        text = "As a Software Engineer and Software Development Manager with 8+ years of experience on Web and related fields, I specialize in front-end, backend development and software architecture. It means that I have a familiarity with each layer of development and a commitment to gaining expertise in all software technology. I enjoy working with small businesses and individual decision makers to provide architectural and custom business solutions that help my clients resolve mission-critical problems, grow their business, and improve their revenue stream and profitability."
+        text = "As a Software Engineer and Software Development Manager with 9+ years of experience on Web and related fields, I specialize in front-end, backend development and software architecture. It means that I have a familiarity with each layer of development and a commitment to gaining expertise in all software technology. I enjoy working with small businesses and individual decision makers to provide architectural and custom business solutions that help my clients resolve mission-critical problems, grow their business, and improve their revenue stream and profitability."
 
 
 
@@ -154,11 +156,32 @@ googleAnalytics = "UA-153716840-1"
     [params.experience]
         enable = true
 
+
         [[params.experience.list]]
-        title = "Departament Manager"
-        dates = "2020 - Present"
+        title = "Product Engineer"
+        dates = "2022 - Present"
+        company = "Intercom R&D United Company"
+        details = "My responsibilities Product Engineer are:"
+        [[params.experience.list.items]]
+        details = "Product Roadmap scoping, estimation and prioritisation."
+        [[params.experience.list.items]]
+        details = "Requirement refinement and investigation."
+        [[params.experience.list.items]]
+        details = "Messenger API observation, stability and scale."
+        [[params.experience.list.items]]
+        details = "Develop technical plans and contribute to our technical architecture."
+        [[params.experience.list.items]]
+        details = "Write Ruby and JavaScript code, which knits together a lot of AWS, infrastructure, platform, and SaaS technologies that form the core of Intercom’s backend infrastructure."
+        [[params.experience.list.items]]
+        details = "Grow your team’s capacity by mentoring other engineers and interviewing candidates.."
+        [[params.experience.list.items]]
+        details = "Cross team communication and collaboration to resolve or define technical and product challenges."
+
+        [[params.experience.list]]
+        title = "Department Manager"
+        dates = "2020 - 2022"
         company = "iTechArt Group"
-        details = "As a Department Manager, my responsibilities are:"
+        details = "As a Department Manager, my responsibilities were:"
         [[params.experience.list.items]]
         details = "Financial indicators, KPI management."
         [[params.experience.list.items]]
@@ -253,8 +276,14 @@ googleAnalytics = "UA-153716840-1"
         enable = true
 
         [[params.projects.list]]
-        title = "Insurance company (NDA)"
-        meta = "Lead Software Egnineer"
+        title = "Intercom / Messenger Team"
+        meta = "Product Engineer"
+        tagline = "Intercom is a software company that specializes in business messaging, providing businesses with a way to chat with their customers."
+        
+
+        [[params.projects.list]]
+        title = "CoverWallet (AON)"
+        meta = "Lead Software Engineer"
         tagline = "Application is an online insurance company for consumers and enterprises. It provides a better experience for other business owners and a concierge service of business insurance management."
         
         [[params.projects.list]]
@@ -295,6 +324,13 @@ googleAnalytics = "UA-153716840-1"
         enable = true
 
         [[params.information.list]]
+        title = "Intercom R&D United Company"
+        [[params.information.list.items]]
+        details = "3rd Floor, Stephens Ct., 18-21 St. Stephen’s Green, Dublin 2"
+        [[params.information.list.items]]
+        details = "Engineering Manager: Dale Cantwell, <dale@intercom.io> "
+
+        [[params.information.list]]
         title = "iTechArt Company Contacts"
         [[params.information.list.items]]
         details = "Address: Minsk, 220007, st. Tolstoy, 10"
@@ -305,6 +341,12 @@ googleAnalytics = "UA-153716840-1"
 
         [[params.information.list]]
         title="Additional Education"
+        [[params.information.list.items]]
+        details = "2021 · Blockchain: Learning Solidity"
+        [[params.information.list.items]]
+        details = "2021 · Cryptocurrency Foundations"
+        [[params.information.list.items]]
+        details = "2021 · Blockchain Basics"
         [[params.information.list.items]]
         details = "2019 · ManageIT.by - Hard Skills for IT-Managers"
         [[params.information.list.items]]
@@ -320,7 +362,7 @@ googleAnalytics = "UA-153716840-1"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Travelling, Driving, Reading, Snowboarding, Exercises"
+        details = "Travellings, Driving, Reading, Snowboarding, Exercises"
 
 
 
