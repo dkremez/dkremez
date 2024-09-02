@@ -1,7 +1,7 @@
 baseURL = "https://dkremez.github.io/"
 languageCode = "en"
 title = "Dzmitry Kremez"
-theme = "hugo-devresume-theme"
+theme = "devresume-theme"
 googleAnalytics = "UA-153716840-1"
 
 # Page settings
