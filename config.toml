@@ -7,7 +7,7 @@ googleAnalytics = "UA-153716840-1"
 # Page settings
 [params]
 author = "Dzmitry Kremez"
-description = "DevResume - Personal online CV. Created with Hugo - Golang site generator"
+description = "Software Engineer Resume - Personal online CV. Created with Hugo - Golang site generator"
 primaryColor = "#665b50"
 textPrimaryColor = "#292929"
 
@@ -125,7 +125,12 @@ name = "Exercises"
 
 [params.summary]
 enable = true
-text = "As a Software Engineer and Software Development Manager with 10+ years of experience on Web and related fields, I specialize in front-end, backend development and software architecture. It means that I have a familiarity with each layer of development and a commitment to gaining expertise in all software technology. I enjoy working with small businesses and individual decision makers to provide architectural and custom business solutions that help my clients resolve mission-critical problems, grow their business, and improve their revenue stream and profitability."
+text = '''
+As a seasoned Product and Software Engineering Professional with over 10 years of experience in web development and related fields,
+I specialize in front-end, back-end development, and software architecture. My expertise spans across all layers of the development stack,
+reflecting a deep commitment to mastering various software technologies. I am passionate about collaborating with small businesses and decision-makers
+to design and implement custom solutions that address mission-critical challenges, drive business growth, and enhance profitability.
+'''
 
 [params.experience]
 enable = true
@@ -201,7 +206,7 @@ enable = true
 
 [[params.projects.list]]
 title = "Intercom / Messenger Team"
-meta = "Product Engineer"
+meta = "Senior Product Engineer"
 tagline = "Intercom is a software company that specializes in business messaging, providing businesses with a way to chat with their customers."
 
 [[params.projects.list]]
