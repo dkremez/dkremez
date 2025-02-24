@@ -7,14 +7,14 @@ googleAnalytics = "UA-153716840-1"
 # Page settings
 [params]
 author = "Dzmitry Kremez"
-description = "Software Engineer Resume - Personal online CV. Created with Hugo - Golang site generator"
+description = "Senior Product Engineer - Specializing in Software Development, AI Solutions and Engineering Leadership"
 primaryColor = "#665b50"
 textPrimaryColor = "#292929"
 
 [params.profile]
 enable = true
 name = "Dzmitry Kremez"
-tagline = "Senior Software Engineer"
+tagline = "Senior Product Engineer"
 avatar = "avatar-latest.jpg"
 
 [params.contact]
@@ -38,42 +38,34 @@ text = "https://github.com/dkremez"
 enable = true
 
 [[params.skills.list]]
-title = "Technical"
+title = "Technical Expertise"
 [[params.skills.list.items]]
-details = "JavaScript/Typescript"
+details = "AI Solutions Architecture"
 [[params.skills.list.items]]
-details = "React/Redux/Next.js"
+details = "Full-Stack Development (JavaScript/TypeScript, React, Ruby on Rails)"
 [[params.skills.list.items]]
-details = "Ruby/Ruby on Rails"
+details = "Cloud Infrastructure (AWS, GCP)"
 [[params.skills.list.items]]
-details = "Node.js/Express.js"
+details = "System Design & Architecture"
 [[params.skills.list.items]]
-details = "PostgreSQL/MySQL"
+details = "Security & Performance Optimization"
 [[params.skills.list.items]]
-details = "AWS/Digital Ocean/Heroku/GCP"
-[[params.skills.list.items]]
-details = "CI/CD"
-[[params.skills.list.items]]
-details = "Object-oriented design"
-[[params.skills.list.items]]
-details = "Design and implement database structures"
-[[params.skills.list.items]]
-details = "Lead and deliver complex software systems"
+details = "CI/CD & DevOps"
 
 [[params.skills.list]]
-title = "Professional"
+title = "Leadership"
 [[params.skills.list.items]]
-details = "Effective communication"
+details = "Engineering Team Leadership"
 [[params.skills.list.items]]
-details = "Team player"
+details = "Technical Strategy"
 [[params.skills.list.items]]
-details = "Strong problem solver"
+details = "Mentorship & Team Development"
 [[params.skills.list.items]]
-details = "Good time management"
+details = "Product Strategy"
 [[params.skills.list.items]]
-details = "Ownership"
+details = "Stakeholder Management"
 [[params.skills.list.items]]
-details = "Team leading experience"
+details = "Cross-functional Collaboration"
 
 
 [params.education]
@@ -93,10 +85,9 @@ dates = "2007 - 2014"
 enable = false
 
 [[params.awards.list]]
-name = "iTechArt Hackaton 1st place"
-body = "iTechArt Hackaton"
+name = "iTechArt Hackathon 1st place"
+body = "iTechArt Hackathon"
 date = "2015"
-
 
 [params.languages]
 enable = true
@@ -113,7 +104,7 @@ level = "Native"
 enable = true
 
 [[params.interests.list]]
-name = "Travelling"
+name = "Traveling"
 [[params.interests.list]]
 name = "Driving"
 [[params.interests.list]]
@@ -126,80 +117,64 @@ name = "Exercises"
 [params.summary]
 enable = true
 text = '''
-As a seasoned Product and Software Engineering Professional with over 10 years of experience in web development and related fields,
-I specialize in front-end, back-end development, and software architecture. My expertise spans across all layers of the development stack,
-reflecting a deep commitment to mastering various software technologies. I am passionate about collaborating with small businesses and decision-makers
-to design and implement custom solutions that address mission-critical challenges, drive business growth, and enhance profitability.
+Distinguished Senior Product Engineer with 10+ years of expertise in full-stack development, AI solutions and engineering leadership.
+Recognized for combining technical excellence with product vision to deliver high-impact solutions. Successfully led the development
+of AI-powered customer experience platforms and scaled engineering teams. Known for commitment to clean
+architecture, mentorship, and driving technical innovation that delivers measurable business results.
 '''
 
 [params.experience]
 enable = true
 
 [[params.experience.list]]
-title = "Product Engineer -> Senior Product Engineer"
+title = "Senior Product Engineer"
 dates = "2022 - Present"
 company = "Intercom R&D Unlimited Company"
-details = "My main achivements are:"
+details = "Leading AI and product initiatives in customer messaging platform:"
 [[params.experience.list.items]]
-details = "Leaded the team that build and shipped Tickets in Messenger experience cross Mobile and Web platforms."
+details = "Enhanced AI Agent security options through implementation of advanced verification systems (OTP, Contextual Identification, JWT)"
 [[params.experience.list.items]]
-details = "Improved messenger security setup and installation rates by driving the installation sdks monitoring and A/B testing of the installation and guiding growth team with the insites and dashboards."
+details = "Architected and delivered cross-platform Tickets in Messenger feature, driving measurable improvements in support efficiency"
 [[params.experience.list.items]]
-details = "I have been a part of the team that has successfully delivered the News feature that extended the Proactive Support package offering."
+details = "Implemented security enhancements resulting in 50% higher secure installation success rate"
 [[params.experience.list.items]]
-details = "I have been a part of the team that has successfully delivered Fin Ai Agent experience in Messenger."
+details = "Core contributor to Fin AI Agent launch, enabling automated assistance for 20K+ customers with 100M+ end-users"
 [[params.experience.list.items]]
-details = "I have been a part of the team that has successfully delivered the new Messenger 5 version cross Web and Mobile platforms."
-[[params.experience.list.items]]
-details = "Contributed to devlopement process and technical improvements though active participation in the team's web guild sessions."
+details = "Led architectural improvements for Messenger v5 platform upgrade"
 
 [[params.experience.list]]
-title = "Group Manager -> Department Manager"
+title = "Group -> Department Manager"
 dates = "2018 - 2022"
 company = "iTechArt Group"
-details = "As a Group and Department Manager, my key responsibilities were:"
+details = "Scaled and led engineering organization:"
 [[params.experience.list.items]]
-details = "Financial indicators, KPI management."
+details = "Drove 200% department and 500% group revenue growth while maintaining profit margins targets"
 [[params.experience.list.items]]
-details = "Leadeship team management: Define department goals, share our vision, delegating, consultancy, escalations management, controlling."
+details = "Maintained 95% client satisfaction through strategic account management"
 [[params.experience.list.items]]
-details = "Management of software development departments."
+details = "Built and led high-performing management structure of 5 group managers and 10+ team leads, driving strategic alignment and operational excellence"
 [[params.experience.list.items]]
-details = "Participate in pre-sales activities."
+details = "Scaled engineering team from 8 to 150+ professionals with 95% retention rate"
 [[params.experience.list.items]]
-details = "Communication with company customers."
-[[params.experience.list.items]]
-details = "Personnel management: staffing, training, performance review conducting, delegating."
-[[params.experience.list.items]]
-details = "Improvement of software development processes."
-[[params.experience.list.items]]
-details = "Organize education activities: technology meetups, workshops, knowledge sharing sessions."
-[[params.experience.list.items]]
-details = "Organize departments team buildings."
+details = "Established university education programs and engineering knowledge-sharing initiatives"
 
 [[params.experience.list]]
-title = "Software Egnineer -> Lead Software Developer"
+title = "Software Engineer -> Lead Software Engineer"
 dates = "2013 - 2018"
 company = "iTechArt Group"
-details = "As Lead Full Stack Developer my duties list included:"
+details = "Technical leadership and architecture:"
 [[params.experience.list.items]]
-details = "Leading a software development team."
+details = "Delivered 3 major client projects with 100% on-time completion and exceptional customer feedback"
 [[params.experience.list.items]]
-details = "Hold communications between development teams, product managers, and other stakeholders."
+details = "Implemented complex technical features including real-time analytics and distributed caching systems"
 [[params.experience.list.items]]
-details = "Make decisions within their team about how to optimize work for features to be implemented, when possible in order of the priority."
+details = "Promoted to leadership role based on consistent technical excellence and client satisfaction"
 [[params.experience.list.items]]
-details = "Analysis of code structure, architecture."
+details = "Regular speaker at company tech talks, sharing expertise in scalable architecture and best practices"
 [[params.experience.list.items]]
-details = "Back-end & Front-end development."
+details = "Mentored 20+ engineers to senior positions through hands-on guidance and technical leadership"
 [[params.experience.list.items]]
-details = "Speaking at conferences and meetups."
-
-[[params.experience.list]]
-title = "Ruby on Rails and Java SE coach"
-dates = "2013 - 2014"
-company = "BigSoft"
-details = "I taught students basic knowledge about programming skills, OOP practices, frameworks API. I give them homework tasks and advice for code design standards. As a result, they built a test project.."
+details = "Served as go-to technical expert for resolving complex bugs and unblocking critical issues across multiple teams"
 
 [params.projects]
 enable = true
@@ -207,82 +182,75 @@ enable = true
 [[params.projects.list]]
 title = "Intercom / Messenger Team"
 meta = "Senior Product Engineer"
-tagline = "Intercom is a software company that specializes in business messaging, providing businesses with a way to chat with their customers."
+tagline = "Enterprise-scale business messaging platform enabling companies to communicate with customers through AI-powered solutions and real-time chat."
 
 [[params.projects.list]]
 title = "CoverWallet (AON)"
 meta = "Lead Software Engineer"
-tagline = "Application is an online insurance company for consumers and enterprises. It provides a better experience for other business owners and a concierge service of business insurance management."
+tagline = "Digital insurance platform providing automated business insurance management and concierge services for enterprises."
 
 [[params.projects.list]]
 title = "Harvest"
-meta = "Senior Software Developer"
-tagline = "Harvest is the digital content platform for the investor community where investment organizations distribute their latest insights, empowering investors to make the most informed decisions."
+meta = "Senior Software Engineer"
+tagline = "Digital content platform for investment organizations to distribute insights and analysis to the investor community."
 
 [[params.projects.list]]
 title = "Caredox"
-meta = "Software Developer"
+meta = "Software Engineer"
 tagline = "CareDox is a care coordination platform for parents and schools. It automate and streamline information collection and access to improve child safety."
 
-[[params.projects.list]]
-title = "Beauty Booked"
-meta = "Software Developer"
-tagline = "Beauty Booked is an online platform that enables users to search, discover, and book appointments with salons and spas."
 
 [[params.projects.list]]
-title = "Scidea"
-meta = "Software Developer"
-tagline = "Scidea is a web-based, consumer-facing Learning Management System that enables employees, members, partners or any learners across an organization and in different countries to access training and events from a single online platform."
-
-[[params.projects.list]]
-title = "GruupMeet"
-meta = "Software Developer"
-tagline = "The application includes a tracking function and user interaction features to help manage group airport arrivals. Application focuses on personal communication with meeting attendees and a tracking feature to pro-actively stay attended to arrivals/attendees."
+title = "Early Career Projects"
+meta = "Software Engineer"
+tagline = "Led development on various SaaS platforms including healthcare coordination (CareDox), appointment booking systems, and learning management solutions. Specialized in user-centric applications with focus on data security and scalability."
 
 
 [params.information]
 enable = true
 
 [[params.information.list]]
-title = "Intercom R&D United Company"
+title = "Testimonials"
 [[params.information.list.items]]
-details = "3rd Floor, Stephens Ct., 18-21 St. Stephen’s Green, Dublin 2"
+details = "Tomás Pérez - Software Engineering Leader (Ex Amazon, Spotify, Tuenti)"
+[[params.information.list.items]]
+details = '''
+"One of the most skilled software engineers I've ever met. Combines amazing technical skills with great attitude,
+always committed and helpful. Cares deeply about solution quality with focus on clean code and architecture.
+A key player in every project, almost guaranteeing success and on-time delivery. Excellent at mentoring and
+developing both technical and soft skills in team members."
+'''
+
+[[params.information.list]]
+title = "Intercom R&D United Company Contacts"
+[[params.information.list.items]]
+details = "124 St Stephen's Green, Dublin 2, D02 C628"
 [[params.information.list.items]]
 details = "Engineering Manager: Dale Cantwell, <dale@intercom.io> "
 
 [[params.information.list]]
 title = "iTechArt Company Contacts"
 [[params.information.list.items]]
-details = "Address: Minsk, 220007, st. Tolstoy, 10"
-[[params.information.list.items]]
-details = "Phone: +375333876163"
+details = "Address: Minsk, 220007, st. Tolstoy, 10, Phone: +375333876163"
 [[params.information.list.items]]
 details = "Unit Director: Mikhail Linnik, mikhail.linnik@itechart-group.com, +375447087579"
 
 [[params.information.list]]
 title = "Additional Education"
 [[params.information.list.items]]
-details = "2021 · Blockchain: Learning Solidity"
-[[params.information.list.items]]
-details = "2021 · Cryptocurrency Foundations"
-[[params.information.list.items]]
-details = "2021 · Blockchain Basics"
+details = "2021 · Blockchain Development & Cryptocurrency (Solidity, Foundations, Core Concepts)"
 [[params.information.list.items]]
 details = "2019 · ManageIT.by - Hard Skills for IT-Managers"
 [[params.information.list.items]]
-details = "2018 · Tensor.by - Machine Learning"
-[[params.information.list.items]]
-details = "2018 · Belhard - Introduction into Machine Learning"
+details = "2018 · Machine Learning Fundamentals (Tensor.by, Belhard)"
 [[params.information.list.items]]
 details = "2017 · Cronis.by - Algorithms and Data Structures"
 [[params.information.list.items]]
-details = "2013 · Itransition - Production Software Development"
-[[params.information.list.items]]
-details = "2012 · BigSoft - Java SE, Java EE"
+details = "2012-2013 · Enterprise Software Development (Java SE/EE, Production Systems)"
 
 [[params.information.list]]
 title = "Interests"
-details = "Travellings, Driving, Reading, Snowboarding, Exercises"
+details = "Travelings, Driving, Reading, Snowboarding, Exercises"
 
 
 [params.social]
